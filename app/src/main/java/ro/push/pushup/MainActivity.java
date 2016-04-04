@@ -43,5 +43,7 @@ public class MainActivity extends ActionBarActivity {
         int ii= 2 + 2;
 
         int iii = i + ii;
+
+        int n = 2 + 3;
     }
 }
